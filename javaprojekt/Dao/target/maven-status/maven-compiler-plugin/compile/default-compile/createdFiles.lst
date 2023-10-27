@@ -1,0 +1,14 @@
+hr\algebra\dal\sql\SqlUserRepo.class
+hr\algebra\dal\Repository.class
+hr\algebra\dal\RepositoryFactory$RepositoryType.class
+hr\algebra\model\Genre.class
+hr\algebra\dal\RepositoryFactory.class
+hr\algebra\dal\sql\DataSourceSingleton.class
+hr\algebra\model\Movie.class
+hr\algebra\dal\sql\SqlGenreRepo.class
+hr\algebra\dal\MovieObjectBinder.class
+hr\algebra\dal\sql\SqlMovieRepo.class
+hr\algebra\model\Person.class
+hr\algebra\model\User.class
+hr\algebra\dal\sql\SqlDirectorRepo.class
+hr\algebra\dal\sql\SqlActorRepo.class
